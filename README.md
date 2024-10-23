@@ -1,5 +1,6 @@
 # Muhammad Abdullah
 👋 Welcome to my profile! I'm Muhammad Abdullah, a versatile professional:
+
 🌐 Full Stack Developer | Frontend Enthusiast | Backend Learner
 
 - 🌱 Currently learning: Backend development with Node.js and Express.
